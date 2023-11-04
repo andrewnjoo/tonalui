@@ -1,0 +1,6 @@
+.alert {
+  @apply border;
+}
+.badge {
+  @apply text-white;
+}

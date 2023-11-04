@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"postcss src/**/*.css -d dist"
+    "build":"node src/build"
   },
   "keywords": ["tailwindcss", "ui", "components"],
   "author": "Andrew Njoo",
