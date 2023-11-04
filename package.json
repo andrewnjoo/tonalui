@@ -1,6 +1,6 @@
 {
   "name": "tonalui",
-  "version": "1.0.01",
+  "version": "1.0.2",
   "description": "A collection of open-source Tailwind CSS UI components",
   "main": "index.js",
   "scripts": {
