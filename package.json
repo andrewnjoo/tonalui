@@ -1,13 +1,19 @@
 {
   "name": "tonalui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A collection of open-source Tailwind CSS UI components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"node src/build"
+    "build": "node src/build"
   },
-  "keywords": ["tailwindcss", "ui", "components"],
+  "keywords": [
+    "design-system",
+    "tailwindcss",
+    "components",
+    "ui-library",
+    "ui"
+  ],
   "author": "Andrew Njoo",
   "license": "MIT",
   "repository": {
@@ -25,6 +31,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
+    "prejss-cli": "^0.3.3",
     "prettier": "^3.0.3",
     "prettier-plugin-tailwindcss": "^0.5.6"
   }

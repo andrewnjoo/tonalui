@@ -1,0 +1,1 @@
+module.exports = {".alert":{"@apply border":true},".badge":{"@apply text-white":true}};

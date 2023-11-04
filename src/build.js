@@ -6,3 +6,4 @@ execSync(
 // execSync("cat dist/components/unstyled/*.css > dist/unstyled.css");
 execSync("cat dist/components/styled/*.css > dist/styled.css");
 execSync("rm -rf dist/components");
+execSync("node_modules/.bin/prejss-cli dist/styled.css --format commonjs")
