@@ -1,15 +1,23 @@
 {
   "name": "tonalui",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of open-source Tailwind CSS UI components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build":"postcss src/**/*.css -d dist"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["tailwindcss", "ui", "components"],
+  "author": "Andrew Njoo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adnjoo/tonalui"
+  },
+  "bugs": {
+    "url": "https://github.com/adnjoo/tonalui/issues"
+  },
+  "homepage": "https://github.com/yourusername/tonalui",
   "dependencies": {
     "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0",
