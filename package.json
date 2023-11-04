@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/adnjoo/tonalui/issues"
   },
-  "homepage": "https://github.com/yourusername/tonalui",
+  "homepage": "https://github.com/adnjoo/tonalui",
   "dependencies": {
     "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0",
